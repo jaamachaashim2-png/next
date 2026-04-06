@@ -1,0 +1,56 @@
+body{
+
+background-color: rgb(255, 228, 196);
+
+
+
+}
+
+footer{
+
+text-align: center;
+color: rgb(215, 223, 223);
+background-color: rgb(99, 99, 169);
+
+
+}
+
+section{
+
+
+    color: rgb(189, 132, 132);
+}
+
+ul{
+
+color: rgb(114, 30, 15);
+
+}
+
+
+h1{
+
+color: navy;
+
+}
+
+
+
+a{
+text-decoration:none ;
+
+}
+
+h4{
+color:black;
+
+
+
+}
+
+nav{
+
+text-align: right;
+
+}
+
